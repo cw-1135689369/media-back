@@ -150,7 +150,7 @@ def getConversationtListByreporter(reporter, date):
 
 # 获取记者发文性格
     import time
-def getCharacter(reporter, media):
+def getCharacter(reporter):
     # 获取180天的数据
     df = getDataByDate(180)
     # 选取记者数据

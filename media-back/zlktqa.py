@@ -192,8 +192,7 @@ def getConversationtListByreporter():
 @app.route('/getCharacter')
 def getCharacter():
     reporter = request.args.get("reporter")
-    media = request.args.get("media", type=int)
-    u = ReporterAnalysis.getCharacter(reporter, media)
+    u = ReporterAnalysis.getCharacter(reporter)
     return jsonify(u)
 
 
