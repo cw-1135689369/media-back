@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d2b99c-2297-40b3-92bb-2d65012ca333" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Flask_Project/service/MediaAnalysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/service/BigMediaAnalysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/migrations/env.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/zlktqa.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/dao/DoMysql.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/dao/MediaAnalysisDao.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/dao/BigMediaAnalysisDao.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/service/ReporterAnalysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Flask_Project/dao/ReporterAnalysisDao.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Xsp0rLiyxcDhcSeM2wG8FFni5V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/project/分析数据" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Flask_Project\Flask_Project\static\images" />
+      <recent name="C:\Users\admin\Desktop\Flask_Project\Flask_Project\config" />
+      <recent name="C:\Users\admin\Desktop\Flask_Project\Flask_Project\service" />
+      <recent name="C:\Users\admin\Desktop\Flask_Project\Flask_Project\dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Flask_Project\Flask_Project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Flask_Project">
+    <configuration name="Flask_Project" type="PythonConfigurationType" factoryName="Python">
+      <module name="Flask_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask_Project/zlktqa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MediaAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask_Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\Desktop\Flask_Project\Flask_Project\service\MediaAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MediaAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d2b99c-2297-40b3-92bb-2d65012ca333" name="Default Changelist" comment="" />
+      <created>1581844436269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581844436269</updated>
+      <workItem from="1581844480243" duration="1427000" />
+      <workItem from="1581846096322" duration="810000" />
+      <workItem from="1581847010798" duration="649000" />
+      <workItem from="1581847745008" duration="28006000" />
+      <workItem from="1581912117812" duration="63369000" />
+      <workItem from="1582263083473" duration="7168000" />
+      <workItem from="1582520650474" duration="21027000" />
+      <workItem from="1582703349165" duration="3266000" />
+      <workItem from="1582873808306" duration="30000" />
+      <workItem from="1582877563631" duration="297000" />
+      <workItem from="1583051966550" duration="4560000" />
+      <workItem from="1583117225018" duration="21192000" />
+      <workItem from="1583244747641" duration="9000" />
+      <workItem from="1583299744207" duration="11348000" />
+      <workItem from="1583394722683" duration="3181000" />
+      <workItem from="1583471142997" duration="4859000" />
+      <workItem from="1583481154873" duration="2452000" />
+      <workItem from="1583645858069" duration="21392000" />
+      <workItem from="1583730342759" duration="9361000" />
+      <workItem from="1583817315775" duration="20286000" />
+      <workItem from="1583989621055" duration="13855000" />
+      <workItem from="1584080598912" duration="18148000" />
+      <workItem from="1584410865813" duration="69577000" />
+      <workItem from="1584931045074" duration="17255000" />
+      <workItem from="1585015267129" duration="13145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582607928824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582607928824" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585043847602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585043847602" />
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom" timestamp="1585043855990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585043855990" />
+    <state width="1323" height="190" key="GridCell.Tab.0.center" timestamp="1585043855986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585043855986" />
+    <state width="1323" height="190" key="GridCell.Tab.0.left" timestamp="1585043855986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585043855986" />
+    <state width="1323" height="190" key="GridCell.Tab.0.right" timestamp="1585043855986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585043855986" />
+    <state width="1323" height="247" key="GridCell.Tab.1.bottom" timestamp="1583999915695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583999915695" />
+    <state width="1323" height="247" key="GridCell.Tab.1.center" timestamp="1583999915695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583999915695" />
+    <state width="1323" height="247" key="GridCell.Tab.1.left" timestamp="1583999915695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583999915695" />
+    <state width="1323" height="247" key="GridCell.Tab.1.right" timestamp="1583999915695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583999915695" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583825425365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583825425365" />
+    <state x="402" y="69" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581847457658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="69" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.728@0.0.1366.728" timestamp="1581847457658" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585015267237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585015267237" />
+    <state x="359" y="0" width="647" height="728" key="find.popup" timestamp="1581940594223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581940594223" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584089471420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584089471420" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Flask_Project/service/BigMediaAnalysis.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flask_Project$Flask_Project.coverage" NAME="Flask_Project Coverage Results" MODIFIED="1585040279237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Flask_Project$manage.coverage" NAME="manage Coverage Results" MODIFIED="1582015724138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask_Project" />
+  </component>
+</project>
